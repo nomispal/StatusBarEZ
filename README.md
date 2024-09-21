@@ -1,4 +1,3 @@
-StatusBar Customizer EZ
 StatusBar EZ is an Android application that allows users to select an image from their device's gallery, crop it, and display the cropped image in the status bar. The app aims to enhance personalization by letting users modify the appearance of their status bar with custom images.
 
 Features
